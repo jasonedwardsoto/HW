@@ -10,11 +10,14 @@ This is additonal infomation
 
 Question:
 
-Who are you? What is your backgroung
+Who are you? What is your background
+---
 Jason Soto I come from a Senior Network Engineering role
 
 What are your career goals?
+---
 My goal is to change my career path toward Quant or something within the Blockchain/Cryto space
 
 What did you chooe FinTech as a career path?
+---
 It not only adds to my background but propells to an area where I could bring the two things I love finance and technology
