@@ -1,4 +1,10 @@
-# HW
+# Homework
+---
+`Fintech`> "Fintech is cool"
+---
+![Fintech](https://www.forbes.com/advisor/wp-content/uploads/2020/08/getty_what_is_fintech_080220pm_jpg_yvtZYBW2.jpg)
+**_My first homework_**
+###
 This will store my homework for the FinTech Bootcamp
 This is additonal infomation
 
