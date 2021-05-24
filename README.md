@@ -11,7 +11,7 @@ This is additonal infomation
 Question:
 
 Who are you? What is your backgroung
-Jason Soto I come from Senior Network Engineering role
+Jason Soto I come from a Senior Network Engineering role
 
 What are your career goals?
 My goal is to change my career path toward Quant or something within the Blockchain/Cryto space
