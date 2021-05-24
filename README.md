@@ -8,7 +8,7 @@
 This will store my homework for the FinTech Bootcamp
 This is additonal infomation
 
-Question:
+**Question:**
 
 Who are you? What is your background
 ---
